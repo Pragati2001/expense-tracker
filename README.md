@@ -242,3 +242,6 @@ Runs on:
 http://localhost:5173
 ```
 
+<img width="1112" height="472" alt="image" src="https://github.com/user-attachments/assets/103a07c0-cfc3-451e-98c8-7281860827cf" />
+
+
